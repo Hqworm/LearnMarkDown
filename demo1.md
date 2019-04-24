@@ -7,13 +7,13 @@ demo1:with=
 ##demo2
 demo2 with -
 ---
-###demo3
-####demo4
-#####demo5
-######demo6
+###demo3  
+####demo4  
+#####demo5  
+######demo6  
 ## 段落
-哈喽，markdown.  
-hello,markdown.
+哈喽，markdown.    
+hello,markdown.  
 
 hello,markdown ,加入空行表示段落，或者在上一行中加入两个空格hello,markdown ,加入空行表示段落，或者在上一行中加入两个空格。
 
