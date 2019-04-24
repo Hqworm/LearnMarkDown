@@ -31,7 +31,10 @@
 #### 代码块
 
 这里是引用要用到的链接  
-[百度]: http://www.baidu.com
-[baidu]: http://www.baidu.com
-[demo1]: demo1.md  
-[代码块]: demo2.md#代码块  
+[百度]: http://www.baidu.com  
+
+[baidu]: http://www.baidu.com 
+
+[demo1]: demo1.md    
+
+[代码块]: demo2.md#代码块    
