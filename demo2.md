@@ -60,8 +60,18 @@ var a=10;
 ```
 
 这里是引用要用到的链接  
+<<<<<<< HEAD
 [百度]: http://www.baidu.com
 [baidu]: http://www.baidu.com
 [demo1]: demo1.md  
 [代码块]: demo2.md#代码块    
 ![baidu]: https://www.baidu.com/img/bd_logo1.png "百度网站"  
+=======
+[百度]: http://www.baidu.com  
+
+[baidu]: http://www.baidu.com 
+
+[demo1]: demo1.md    
+
+[代码块]: demo2.md#代码块    
+>>>>>>> 13bdc2a41e4863a1c122a0a79fb2b349cb9a8b11
