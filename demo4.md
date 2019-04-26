@@ -35,23 +35,23 @@
 
 ### 多级列表问题
 - item1
-  - item1.1
-  - item1.2
+  - item1.1  
+  - item1.2  
 - item2
 - item3
 - item4
 
-1. item1
-  1. item1.1
-  2. item1.2
-2. item2
+1. item1  
+  1.item1.1  
+  2.item1.2  
+2. item2  
 3. item3
 4. item4
 
 打断列表在列表之间加入文字可以打断，空行不行。
-1. item1
-  1. item1.1
-  2. item1.2
+1. item1  
+  1.item1.1  
+  2.item1.2  
 2. item2
 
 啦啦啦打断啦  需要文字段落哟，文字前后有空格
@@ -59,13 +59,12 @@
 3. item3
 4. item4  
 
-
 如果把打断的续上，则正文字前面呢缩进空格*4，--把他看做列表的子列表
 
-1. item1
-  1. item1.1
-  2. item1.2
-2. item2
+1. item1  
+  1.item1.1  
+  2.item1.2  
+2. item2  
     打断续上了
 3. item3
 4. item4 
