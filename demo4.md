@@ -1,4 +1,4 @@
-###Welcome to use MarkDown
+### Welcome to use MarkDown
 ## 混合强调样式
 ### 1.基本强调样式
 - **加粗**  ....  __加粗__
@@ -9,6 +9,7 @@
 - **~~加粗删除~~**
 - *~~斜体删除~~*
 - ***~~加粗倾斜删除~~***
+<<<<<<< HEAD
 
 ## 混合 图片链接
 
@@ -74,3 +75,5 @@
 [baidu]: http://www.baidu.com
 
 [baidu_logo]: http://www.baidu.com/img/bd_logo1.png
+=======
+>>>>>>> 08d162fa06193b3fe25bcce034f3c866ea8a210b
